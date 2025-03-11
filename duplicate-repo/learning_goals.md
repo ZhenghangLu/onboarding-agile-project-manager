@@ -1,3 +1,5 @@
+*Goals*
+
 1. **What do you hope to learn from this internship?**
 Since I am doing project manager intern, I want to gain more real-world project management experience and improve coordination skills.  
 
