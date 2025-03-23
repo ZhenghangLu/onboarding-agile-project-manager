@@ -1,64 +1,54 @@
 # Sprint Tracking & Scope Management Reflection: Focus Bear
 
-## Effective Ways to Track Sprint Progress
+## Effective Ways to Track Progress
 
-The Focus Bear team mainly used these methods:
+The Focus Bear team primarily uses **Kanban** to manage tasks on Trello. Tasks are organized clearly into columns like 'To Do,' 'In Progress,' and 'Done,' which helps the team visualize workflow and quickly spot delays.
 
-- **Burndown Chart:**  
-  Clearly showed daily progress and quickly identified delays.
+## Handling Scope Changes
 
-- **Task Board (Kanban):**  
-  Helped visualize tasks as they moved from 'To Do' to 'Done.'
+When new tasks or scope changes appear, the team:
 
-- **Velocity Tracking:**  
-  The team compared actual progress against planned work to adjust future estimates.
-
-## Handling Scope Changes During Sprint
-
-When new tasks or changes appeared mid-sprint, the Focus Bear team:
-
-- Discussed the importance and urgency openly.
-- Decided together if the new task should replace a current one or be moved to a future sprint.
-- Scrum Master ensured everyone agreed and the sprint goal remained clear.
+- Discusses the priority and urgency openly.
+- Decides collectively if a new task should replace or delay existing tasks.
+- Clearly updates the task board to reflect agreed changes, ensuring everyone understands the impact.
 
 ## Techniques for Identifying Risks and Bottlenecks Early
 
-- Quick daily standups helped spot issues immediately.
-- Regular checks on the burndown chart highlighted delays.
-- The Scrum Master regularly asked if anyone needed help, uncovering problems early.
+- Regular daily check-ins help identify blockers promptly.
+- Visually clear columns on Trello make it easy to notice stuck tasks.
+- Team openly communicates blockers or delays immediately.
 
-## Role of the Scrum Master
+## Role of Team Coordination
 
-The Scrum Master protected the team's focus by:
+The team manages focus effectively by:
 
-- Ensuring new tasks didn’t interrupt current work.
-- Helping the team prioritize clearly when issues arose.
-- Keeping meetings focused and short.
+- Clearly prioritizing tasks based on urgency and importance.
+- Quickly addressing blockers when identified.
+- Ensuring discussions remain short, actionable, and focused.
 
-## Responding to Unfinished Tasks Mid-Sprint
+## Responding to Unfinished Tasks
 
-If the team noticed they couldn't complete all tasks:
+If the team realizes tasks won't finish as planned:
 
-- The Scrum Master quickly reviewed remaining tasks with the team.
-- Tasks with lower priority or complexity were adjusted or moved to future sprints.
-- The Scrum Master communicated clearly to stakeholders to manage expectations.
+- Tasks are re-prioritized, with lower-priority tasks moved to backlog or future consideration.
+- Clear communication with stakeholders occurs to manage expectations.
 
 ## Managing Scope Changes Clearly
 
-Scope changes were communicated by:
+Scope changes are managed by:
 
-- Quickly discussing impact openly with the team.
-- Clearly explaining changes to everyone affected.
-- Adjusting sprint goals slightly only if absolutely necessary.
+- Quickly discussing and assessing impact within the team.
+- Clearly communicating changes to all stakeholders.
+- Ensuring the overall workflow and priorities remain clear and organized on Trello.
 
-## Avoiding Micromanagement Risks
+## Avoiding Micromanagement
 
-To avoid micromanagement:
+To prevent micromanagement:
 
-- The Scrum Master trusted the team and did not overly check task details.
-- They allowed team members to own their work, intervening only when necessary.
-- Progress tracking was supportive rather than controlling.
+- Team members are trusted to manage their tasks independently.
+- Progress checks are minimal, supportive, and collaborative, not intrusive.
+- Emphasis is placed on outcomes and clear communication rather than detailed oversight.
 
 ## Final Thoughts
 
-The Focus Bear team effectively tracked progress and handled changes smoothly. Ensuring clear communication and avoiding micromanagement made their sprint process reliable and efficient.
+Using Kanban on Trello, the Focus Bear team effectively manages tasks, tracks progress clearly, and handles scope changes smoothly. Open communication and clear prioritization have enhanced efficiency significantly.
