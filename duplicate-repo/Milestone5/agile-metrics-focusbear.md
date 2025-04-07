@@ -16,5 +16,4 @@ GitHub Projects can be used to organize tasks into boards. It helps track how is
 - **Challenges:** Interpreting sprint data might be difficult if information is incomplete or if sprint estimates are inaccurate.
 - **Data-Driven Insights:** Using these metrics can help identify bottlenecks early, enabling adjustments to improve team performance.
 
-## Conclusion
 Agile metrics are essential for continuous improvement. Combining GitHub Projects with open-source reporting tools can give Focus Bear a more comprehensive view of sprint performance and guide process improvements.
