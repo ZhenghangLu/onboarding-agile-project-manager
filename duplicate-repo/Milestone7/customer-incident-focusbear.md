@@ -15,7 +15,7 @@ Typical customer incidents include:
 
 When a critical bug comes up:
 - Quickly assess how serious the bug is and how many users are affected.
-- Work with PM, developers, and QA to prioritize fixing this issue.
+- Work with developers, and QA to prioritize fixing this issue.
 - Consider temporarily pausing lower-priority tasks if the problem truly can't wait.
 
 ## Balancing Responsiveness and Sprint Focus
